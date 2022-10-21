@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DraegoG
+- 👋 Hi, I’m Abhishek Gaur
 - 👀 I’m interested in building softwares and doing something for the environment
 - 🌱 I’m currently learning backend development using Golang and frontend development using ReactJS
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on open source projects for benefitting the environment
 - 📫 How to reach me developer.a.gaur@gmail.com
 
 <!---
